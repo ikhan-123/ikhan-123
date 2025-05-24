@@ -19,26 +19,20 @@ Let’s connect, collaborate, and grow together in this fast-moving world of dev
 - 🎯 Completed **Web & Mobile App Development** from **Saylani**
 - 🔧 Currently building my portfolio website to showcase my skills and projects,
 - 🔧 While actively preparing for job and internship opportunities in frontend development.
-- 🔗 Let’s connect on [LinkedIn](https://www.linkedin.com/in/irfan-khan-97b5581bb/) or check out more of my work here on [GitHub](https://github.com/ikhan-123).
 
+<hr>
+<h3 align="left">📫 Connect with me on 🔗 :</h3>
 
----
-
-## 📬 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/irfan-khan-97b5581bb/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/irfan._.khan06/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+<p align="left">
+	<a href="https://www.linkedin.com/in/irfan-khan-97b5581bb/" target="blank"><img align="center"
+			src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
+	<a href="https://x.com/irfanmunir2030" target="blank" style="padding:8px"><img align="center" style="margin:8px"
+			src="https://skillicons.dev/icons?i=twitter" height="50" width="50" alt="twitter icon" /></a>
+	<a href="https://www.instagram.com/irfan._.khan06/" target="blank" style="padding:8px"><img align="center"
+			src="https://skillicons.dev/icons?i=instagram" alt="mabdullah" height="50" width="50" /></a>
+	
 </p>
-
----
+<hr>
 
 ## 🧰 Tech Stack & Tools
 
@@ -79,5 +73,5 @@ Let’s connect, collaborate, and grow together in this fast-moving world of dev
 
 ## 🔗 My Portfolio Website
 
-🌐 [Click Here](https://your-portfolio-url.com)
+🌐 (In building process)
 

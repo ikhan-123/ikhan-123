@@ -33,7 +33,7 @@ Let’s connect, collaborate, and grow together in this fast-moving world of dev
   <a href="https://twitter.com/">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://instagram.com/">
+  <a href="https://www.instagram.com/irfan._.khan06/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
